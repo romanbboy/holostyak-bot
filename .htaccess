@@ -1,0 +1,4 @@
+PassengerNodejs /home/r/romanbef/.local/bin/node
+PassengerAppRoot /home/r/romanbef/romanbef.bget.ru/public_html/
+PassengerAppType node
+PassengerStartupFile index.js
